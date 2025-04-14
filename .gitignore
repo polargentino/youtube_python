@@ -1,0 +1,27 @@
+# Ignorar archivos de audio/video descargados
+*.mp3
+*.webm
+*.mp4
+
+# Ignorar entorno virtual de Python
+venv/
+__pycache__/
+*.py[cod]
+
+# Ignorar archivos de configuración sensible
+config.json
+cookies.txt
+
+# Ignorar archivos generados por el sistema
+.DS_Store
+Thumbs.db
+
+# Ignorar archivos de IDE/Editores
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Ignorar logs y caché
+*.log
+*.cache
