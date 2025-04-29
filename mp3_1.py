@@ -47,7 +47,7 @@ def descargar_mp3(url):
 # (no siendo importado como módulo)
 if __name__ == "__main__":
     # URL del video de YouTube que queremos descargar
-    url = "https://youtu.be/N4DAi9XArms?si=WdhmBdVFWTD1L5Jz"
+    url = "https://youtu.be/YDE516V2Gto?si=94yR5-hfv9SBpkc3"
     
     # Llama a nuestra función de descarga con la URL
     descargar_mp3(url)
