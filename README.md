@@ -53,3 +53,4 @@ if __name__ == "__main__":
     descargar_mp3(url)
 # youtube_python
 ## clonado a CQ40(29/04/2025)
+![cpu visor](assets/CQ-40-cpu.png)
