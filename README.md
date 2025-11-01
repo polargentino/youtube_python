@@ -57,3 +57,14 @@ if __name__ == "__main__":
 
 # Seguimos avanzando hacia el éxito!!!!
 # Idea: Integrar en mp3_1.py la apikey de Gemini para que me transcriba los mp3, para luego que obtenga la idea principal de la canción o que nos diga de que se trata si toma el rol del artista en cuastión
+
+# RESUMEN DE COMANDOS:
+cd ~/Escritorio/youtube_python
+source .venv/bin/activate
+pip install yt-dlp
+sudo apt install ffmpeg -y
+python main.py
+pip freeze > requirements.txt
+git add requirements.txt
+git commit -m "Agregar requirements.txt con librerías necesarias"
+git push origin main
