@@ -56,3 +56,4 @@ if __name__ == "__main__":
 ![cpu visor](assets/CQ-40-cpu.png)
 
 # Seguimos avanzando hacia el éxito!!!!
+# Idea: Integrar en mp3_1.py la apikey de Gemini para que me transcriba los mp3, para luego que obtenga la idea principal de la canción o que nos diga de que se trata si toma el rol del artista en cuastión
