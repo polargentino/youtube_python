@@ -70,3 +70,5 @@ if __name__ == "__main__":
 * **git push origin main**
 
 ![ejercicio-2-n8n.png](/home/pol/Escritorio/youtube_python/assets/ejercicio-2-n8n.png)
+
+# Seguimos avanzando hacia el éxito 
